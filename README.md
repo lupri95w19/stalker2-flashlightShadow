@@ -1,7 +1,7 @@
 # stalker2-flashlightShadow
 
 If you like this guide, you can:
-- 🌟 **Add a Star** to my [GitHub Repo]([#](https://github.com/lupri95w19/stalker2-flashlightShadow)) (I really appreciate it!)
+- 🌟 **Add a Star** to my [GitHub Repo](https://github.com/lupri95w19/stalker2-flashlightShadow) (I really appreciate it!)
 - ⭐ **Endorse this mod** on [Nexus Mods](https://www.nexusmods.com/stalker2heartofchornobyl/mods/447)
 
 
