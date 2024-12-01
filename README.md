@@ -68,3 +68,6 @@ Enter the following commands in the console (without quotes):
 Congratulations! Your game now looks more like a 2024 release. 🎉
 
 To make things easier, I’ve uploaded my `Input.ini` file with my command history. Feel free to use it!
+
+### ☢️ [Check out my modpack!](https://www.nexusmods.com/stalker2heartofchornobyl/mods/402) ☢️
+
