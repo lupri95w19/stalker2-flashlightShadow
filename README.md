@@ -2,7 +2,6 @@
 
 If you like this guide, you can:
 - 🌟 **Add a Star** to my [GitHub Repo](https://github.com/lupri95w19/stalker2-flashlightShadow) (I really appreciate it!)
-- ⭐ **Endorse this mod** on [Nexus Mods](https://www.nexusmods.com/stalker2heartofchornobyl/mods/447)
 
 
 ---
@@ -13,8 +12,8 @@ I am not the creator of these two mods. I just wanted to write a guide to help y
 ---
 
 ## **Required Mods**
-1. [Flashlight Customizer](#)
-2. [Simple ModLoader and Console Enabler](#)
+1. [Flashlight Customizer](https://www.nexusmods.com/stalker2heartofchornobyl/mods/221?tab=posts)
+2. [Simple ModLoader and Console Enabler](https://www.nexusmods.com/stalker2heartofchornobyl/mods/304?tab=files&BH=0)
 
 ---
 
